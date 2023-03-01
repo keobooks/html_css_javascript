@@ -6,4 +6,4 @@
 ① 책 소스 파일 : HTML5_CSS3_JQuery_source.zip
 
 
-② 직접 소스코드 작성시 필요힌 파일 : HTML5_CSS3_JQuery_etcfile.zip
+② 직접 소스코드 작성시 필요한 파일 : HTML5_CSS3_JQuery_etcfile.zip
