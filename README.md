@@ -1,5 +1,5 @@
 # html_css_javascript
-삼양미디어 [html5_css3_jQuery] 책 제공파일 설명
+삼양미디어 [html5_css3_javasctipts] 책 제공파일 설명
 
 ■ 제공파일 :
 
