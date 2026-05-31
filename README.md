@@ -7,3 +7,7 @@
 
 
 ② 직접 소스코드 작성시 필요한 파일 : HTML5_CSS3_JQuery_etcfile.zip
+
+# 책 소스 수정
+- 2026.05.31: 183p htmltags_md05.html 수정
+
